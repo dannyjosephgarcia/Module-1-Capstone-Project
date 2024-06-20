@@ -1,5 +1,5 @@
 import unittest
-from my_team import MyTeam
+from classes.my_team import MyTeam
 
 COUNTRY = 'USA'
 SPORT_NAME = 'Hockey'
