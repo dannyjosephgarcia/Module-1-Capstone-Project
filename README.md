@@ -26,10 +26,10 @@ of the project
 As with all projects, familiarizing yourself with the code is essential to successfully completing the project.
 Go ahead and run the 'my_team.py' file to see what happens
 
-### Step 4: Follow the TODO in the 'your_team.py' file
+### Step 4: Follow the TODOs in the 'your_team.py' file
 Using the 'MyTeam' class from the 'my_team.py' file for inspiration, create your own class for your favorite sports team
 with similar attributes and methods. Make sure it inherits from the Parent class SportsTeam.
 
-### Step 5: Follow the TODO in the 'test_your_team.py'
+### Step 5: Follow the TODOs in the 'test_your_team.py'
 Again, using the TestMyTeam class in the 'test_my_team.py' file for inspiration, try to test the functionality of your 
 class to make sure you are receiving the expected behavior for the values you placed in!
