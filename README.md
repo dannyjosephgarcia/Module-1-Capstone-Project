@@ -24,12 +24,19 @@ of the project
 
 ### Step 3: Familiarize Yourself with the Code
 As with all projects, familiarizing yourself with the code is essential to successfully completing the project.
-Go ahead and run the 'my_team.py' file to see what happens
+Go ahead and run the `my_team.py` file to see what happens
 
 ### Step 4: Follow the TODOs in the 'your_team.py' file
-Using the 'MyTeam' class from the 'my_team.py' file for inspiration, create your own class for your favorite sports team
+Using the `MyTeam` class from the `my_team.py` file for inspiration, create your own class for your favorite sports team
 with similar attributes and methods. Make sure it inherits from the Parent class SportsTeam.
 
 ### Step 5: Follow the TODOs in the 'test_your_team.py'
-Again, using the TestMyTeam class in the 'test_my_team.py' file for inspiration, try to test the functionality of your 
+Again, using the `TestMyTeam` class in the `test_my_team.py` file for inspiration, try to test the functionality of your 
 class to make sure you are receiving the expected behavior for the values you placed in!
+
+### Step 6: Follow the TODOs in the 'misc_functions.py file'
+After completing all TODOs in the `your_team.py` and `test_your_team.py` files, complete the TODOs in the 
+`misc_functions.py` file
+
+### Step 7: Follow the TODOs in the 'test_misc_functions.py' file
+Lastly, complete the TODOs in the `test_misc_functions.py` file
