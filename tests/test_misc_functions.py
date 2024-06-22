@@ -15,14 +15,18 @@ class TestMiscFunctions(unittest.TestCase):
 
     def test_get_all_dictionary_values(self):
         # TODO: Implement the remainder of this unittest
+        # ================================ YOUR CODE HERE ============================== #
         pass
 
     def test_get_all_dictionary_pairs(self):
+        # TODO: Implement the remainder of this unittest
+        # ================================ YOUR CODE HERE ============================== #
         pass
 
     def test_get_number_give_modulus(self):
-        modded_number = self.misc_functions.get_number_given_modulus(3, 5)
-        self.assertEqual(2, modded_number)
+        # TODO: Implement the remainder of this unittest
+        # ================================ YOUR CODE HERE ============================== #
+        pass
 
 
 if __name__ == "__main__":
