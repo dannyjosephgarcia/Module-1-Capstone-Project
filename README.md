@@ -40,3 +40,5 @@ After completing all TODOs in the `your_team.py` and `test_your_team.py` files, 
 
 ### Step 7: Follow the TODOs in the 'test_misc_functions.py' file
 Lastly, complete the TODOs in the `test_misc_functions.py` file
+
+If you have any questions, please email us at nextlevelcodingacademy@gmail.com for further assistance
